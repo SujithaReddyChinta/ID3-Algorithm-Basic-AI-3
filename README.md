@@ -1,1 +1,1 @@
-# ID3-Algorithm-Basic-AI-3
+The ID3 (Iterative Dichotomiser 3) algorithm is one of the earliest and most widely used decision tree algorithms in machine learning and data mining. The ID3 algorithm is used for constructing decision trees, which are hierarchical structures used for classification and regression tasks.
